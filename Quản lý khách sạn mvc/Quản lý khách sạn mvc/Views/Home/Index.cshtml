@@ -1,0 +1,112 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+<!-- Banner/logo khách sạn -->
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8 text-center">
+            <img src="/img/logo.png" alt="Logo Khách Sạn" style="max-height:80px;" />
+            <h2 class="mt-2" style="font-family:serif;color:#c59d5f;">NICE DREAM HOTEL & VILLAS</h2>
+        </div>
+    </div>
+</div>
+
+<!-- Menu ngang (dùng _Layout.cshtml) -->
+
+<!-- Khối phòng khách sạn -->
+<div class="container mt-4">
+    <h3 class="text-center mb-3">Đặt Phòng Khách Sạn</h3>
+    <div class="row justify-content-center" style="background:#eaf6ff;border-radius:12px;padding:24px;">
+        <div class="col-md-2 col-6 mb-3">
+            <a asp-controller="Phong" asp-action="Index">
+                <img src="/img/PhongTieuChuan.png" class="img-fluid rounded shadow" alt="Phòng Tiêu Chuẩn" />
+                <div class="text-center mt-2">Phòng Tiêu Chuẩn</div>
+            </a>
+        </div>
+        <div class="col-md-2 col-6 mb-3">
+            <a asp-controller="Phong" asp-action="Index">
+                <img src="/img/phong-hang-trung.jpg" class="img-fluid rounded shadow" alt="Phòng Hạng Trung" />
+                <div class="text-center mt-2">Phòng Hạng Trung</div>
+            </a>
+        </div>
+        <div class="col-md-2 col-6 mb-3">
+            <a asp-controller="Phong" asp-action="Index">
+                <img src="/img/phong-cao-cap.jpg" class="img-fluid rounded shadow" alt="Phòng Cao Cấp" />
+                <div class="text-center mt-2">Phòng Cao Cấp</div>
+            </a>
+        </div>
+        <div class="col-md-2 col-6 mb-3">
+            <a asp-controller="Phong" asp-action="Index">
+                <img src="/img/phong-vip.jpg" class="img-fluid rounded shadow" alt="Phòng VIP" />
+                <div class="text-center mt-2">Phòng VIP</div>
+            </a>
+        </div>
+        <div class="col-md-2 col-6 mb-3">
+            <a asp-controller="Phong" asp-action="Index">
+                <img src="/img/phong-lien-ket.jpg" class="img-fluid rounded shadow" alt="Phòng Liên Kết" />
+                <div class="text-center mt-2">Phòng Liên Kết</div>
+            </a>
+        </div>
+    </div>
+</div>
+
+<!-- Khối tìm kiếm phòng -->
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card p-3 shadow-sm">
+                <h5 class="mb-3">Tìm Kiếm Phòng</h5>
+                <form class="row g-2">
+                    <div class="col-md-4">
+                        <select class="form-select">
+                            <option>Giá Phòng</option>
+                            <option>Loại Phòng</option>
+                        </select>
+                    </div>
+                    <div class="col-md-2">
+                        <select class="form-select">
+                            <option>&lt;=</option>
+                            <option>&gt;=</option>
+                        </select>
+                    </div>
+                    <div class="col-md-4">
+                        <input type="text" class="form-control" placeholder="Nhập giá trị" />
+                    </div>
+                    <div class="col-md-2">
+                        <button type="submit" class="btn btn-success w-100">Tìm Kiếm</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Footer thông tin -->
+<div class="container mt-5 mb-3">
+    <div class="row text-center" style="background:#f5f5fa;border-radius:12px;padding:24px;">
+        <div class="col-md-4 mb-2">
+            <h6>THÔNG TIN</h6>
+            <div>Quản Lý Khách Sạn</div>
+            <div>Hỗ Trợ Khách Hàng</div>
+            <div>Mời Bạn Bè</div>
+            <div>Tư Vấn</div>
+        </div>
+        <div class="col-md-4 mb-2">
+            <h6>TIN TỨC</h6>
+            <div>Tin Tức Khách Sạn</div>
+            <div>Có Gì Mới</div>
+            <div>Điều Khoản</div>
+            <div>Dịch Vụ</div>
+        </div>
+        <div class="col-md-4 mb-2">
+            <h6>LIÊN HỆ</h6>
+            <div>SDT: 0123456789</div>
+            <div>Gmail: chun</div>
+            <div>FANPAGE</div>
+        </div>
+    </div>
+</div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">

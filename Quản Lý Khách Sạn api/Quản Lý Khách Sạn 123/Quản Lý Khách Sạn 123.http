@@ -1,0 +1,6 @@
+@Quản_Lý_Khách_Sạn_123_HostAddress = http://localhost:5276
+
+GET {{Quản_Lý_Khách_Sạn_123_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

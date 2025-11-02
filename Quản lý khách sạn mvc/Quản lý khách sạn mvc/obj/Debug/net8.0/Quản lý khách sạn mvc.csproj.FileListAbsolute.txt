@@ -1,0 +1,37 @@
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\bin\Debug\net8.0\appsettings.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\bin\Debug\net8.0\Quản lý khách sạn mvc.staticwebassets.runtime.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\bin\Debug\net8.0\Quản lý khách sạn mvc.staticwebassets.endpoints.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\bin\Debug\net8.0\Quản lý khách sạn mvc.exe
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\bin\Debug\net8.0\Quản lý khách sạn mvc.deps.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\bin\Debug\net8.0\Quản lý khách sạn mvc.runtimeconfig.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\bin\Debug\net8.0\Quản lý khách sạn mvc.dll
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\bin\Debug\net8.0\Quản lý khách sạn mvc.pdb
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\Quản lý khách sạn mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\Quản lý khách sạn mvc.AssemblyInfoInputs.cache
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\Quản lý khách sạn mvc.AssemblyInfo.cs
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\Quản lý khách sạn mvc.csproj.CoreCompileInputs.cache
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\Quản lý khách sạn mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\Quản lý khách sạn mvc.RazorAssemblyInfo.cache
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\Quản lý khách sạn mvc.RazorAssemblyInfo.cs
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\scopedcss\bundle\Quản lý khách sạn mvc.styles.css
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\scopedcss\projectbundle\Quản lý khách sạn mvc.bundle.scp.css
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\staticwebassets\msbuild.Quản lý khách sạn mvc.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\staticwebassets\msbuild.Quản lý khách sạn mvc.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\staticwebassets\msbuild.build.Quản lý khách sạn mvc.props
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Quản lý khách sạn mvc.props
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Quản lý khách sạn mvc.props
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\Quản lý khách sạn mvc.dll
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\refint\Quản lý khách sạn mvc.dll
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\Quản lý khách sạn mvc.pdb
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\Quản lý khách sạn mvc.genruntimeconfig.cache
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\ref\Quản lý khách sạn mvc.dll
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\Quản lý khách sạn mvc.csproj.AssemblyReference.cache
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\obj\Debug\net8.0\Qu_n l_ .48504365.Up2Date

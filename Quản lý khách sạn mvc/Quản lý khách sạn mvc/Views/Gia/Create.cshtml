@@ -1,0 +1,41 @@
+@model Quản_lý_khách_sạn_mvc.Models.GiaViewModel
+
+@{
+    ViewData["Title"] = "Thêm giá phòng";
+}
+
+<h2>Thêm giá phòng</h2>
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="MaLoaiPhong">Loại phòng</label>
+        <select asp-for="MaLoaiPhong" class="form-control">
+            <option value="">-- Chọn loại phòng --</option>
+            @foreach (var lp in ViewBag.LoaiPhongList as List<Quản_lý_khách_sạn_mvc.Models.LoaiPhongViewModel>)
+            {
+                <option value="@lp.MaLoaiPhong">@lp.Ten (@lp.Ma)</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="TuNgay">Từ ngày</label>
+        <input asp-for="TuNgay" type="date" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="DenNgay">Đến ngày</label>
+        <input asp-for="DenNgay" type="date" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="GiaMoiDem">Giá mỗi đêm</label>
+        <input asp-for="GiaMoiDem" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="GiaMoiGio">Giá mỗi giờ (tuỳ chọn)</label>
+        <input asp-for="GiaMoiGio" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="GhiChu">Ghi chú</label>
+        <input asp-for="GhiChu" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu</button>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</form>

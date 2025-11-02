@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quản Lý Khách Sạn 123", "Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123.csproj", "{A4F762D8-6392-46A4-A82A-D7E1030784FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{1D111D9F-1C53-4952-9456-71E1F772DC06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreApi", "CoreApi\CoreApi.csproj", "{018894BE-E891-4520-ACBC-4D2ADED2B13C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{F4E2409E-BFB5-4582-A1C5-DA4B022B8899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{17AAD11E-A7B3-4D70-9DB4-17F006387181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quản lý khách sạn mvc", "..\Quản Lý Khách Sạn MVC\Quản lý khách sạn mvc\Quản lý khách sạn mvc.csproj", "{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4F762D8-6392-46A4-A82A-D7E1030784FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F762D8-6392-46A4-A82A-D7E1030784FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F762D8-6392-46A4-A82A-D7E1030784FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F762D8-6392-46A4-A82A-D7E1030784FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D111D9F-1C53-4952-9456-71E1F772DC06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D111D9F-1C53-4952-9456-71E1F772DC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D111D9F-1C53-4952-9456-71E1F772DC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D111D9F-1C53-4952-9456-71E1F772DC06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{018894BE-E891-4520-ACBC-4D2ADED2B13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{018894BE-E891-4520-ACBC-4D2ADED2B13C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{018894BE-E891-4520-ACBC-4D2ADED2B13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{018894BE-E891-4520-ACBC-4D2ADED2B13C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E2409E-BFB5-4582-A1C5-DA4B022B8899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E2409E-BFB5-4582-A1C5-DA4B022B8899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E2409E-BFB5-4582-A1C5-DA4B022B8899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E2409E-BFB5-4582-A1C5-DA4B022B8899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17AAD11E-A7B3-4D70-9DB4-17F006387181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AAD11E-A7B3-4D70-9DB4-17F006387181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AAD11E-A7B3-4D70-9DB4-17F006387181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AAD11E-A7B3-4D70-9DB4-17F006387181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC67801-49DE-47FA-A660-485401111B9E}
+	EndGlobalSection
+EndGlobal

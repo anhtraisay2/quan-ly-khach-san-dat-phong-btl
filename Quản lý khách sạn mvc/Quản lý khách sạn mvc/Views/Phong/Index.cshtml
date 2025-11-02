@@ -1,0 +1,29 @@
+﻿@model List<Quản_lý_khách_sạn_mvc.Models.PhongViewModel>
+
+
+<h2 class="mb-4">Danh sách phòng khách sạn</h2>
+<a class="btn btn-success mb-3" asp-action="Create">Thêm mới phòng</a>
+<div class="row">
+    @foreach (var phong in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm h-100">
+                <div class="card-img-top d-flex align-items-center justify-content-center" style="height:180px;background:#f8f9fa;">
+                    <img src="/img/room-placeholder.png" alt="Ảnh phòng" style="max-height:160px;max-width:90%;object-fit:cover;" />
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title">Phòng số: <b>@phong.SoPhong</b></h5>
+                    <p class="card-text mb-1">Mã phòng: <b>@phong.MaPhong</b></p>
+                    <p class="card-text mb-1">Loại phòng: <b>@phong.MaLoaiPhong</b></p>
+                    <p class="card-text mb-1">Tình trạng: <span class="badge @(phong.TinhTrang=="SanSang"?"bg-success":phong.TinhTrang=="DangSua"?"bg-warning":"bg-danger")">@phong.TinhTrang</span></p>
+                    <div class="d-flex justify-content-between mt-3">
+                        <a class="btn btn-primary btn-sm" asp-action="Details" asp-route-id="@phong.MaPhong">Xem chi tiết</a>
+                        <a class="btn btn-info btn-sm" asp-action="Edit" asp-route-id="@phong.MaPhong">Sửa</a>
+                        <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@phong.MaPhong">Xóa</a>
+                        <a class="btn btn-success btn-sm" asp-controller="DatPhong" asp-action="Create" asp-route-maPhong="@phong.MaPhong">Đặt phòng</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

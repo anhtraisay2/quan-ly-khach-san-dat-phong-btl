@@ -1,0 +1,31 @@
+@model List<Quản_lý_khách_sạn_mvc.Models.GiaViewModel>
+
+<h2>Danh sách giá phòng</h2>
+<a class="btn btn-success mb-2" asp-action="Create">Thêm mới giá</a>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Mã giá</th>
+            <th>Mã loại phòng</th>
+            <th>Từ ngày</th>
+            <th>Đến ngày</th>
+            <th>Giá mỗi đêm</th>
+            <th>Giá mỗi giờ</th>
+            <th>Ghi chú</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var gia in Model)
+        {
+            <tr>
+                <td>@gia.MaGia</td>
+                <td>@gia.MaLoaiPhong</td>
+                <td>@gia.TuNgay.ToString("yyyy-MM-dd")</td>
+                <td>@gia.DenNgay.ToString("yyyy-MM-dd")</td>
+                <td>@gia.GiaMoiDem.ToString("N0")</td>
+                <td>@gia.GiaMoiGio?.ToString("N0")</td>
+                <td>@gia.GhiChu</td>
+            </tr>
+        }
+    </tbody>
+</table>

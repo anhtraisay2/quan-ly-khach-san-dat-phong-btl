@@ -1,0 +1,37 @@
+@model Quản_lý_khách_sạn_mvc.Models.PhongViewModel
+<h2>Sửa phòng</h2>
+<form asp-action="Edit" method="post">
+    <input type="hidden" name="MaPhong" value="@Model.MaPhong" />
+    <div class="form-group">
+        <label for="SoPhong">Số phòng</label>
+        <input type="text" class="form-control" id="SoPhong" name="SoPhong" value="@Model.SoPhong" required />
+    </div>
+    <div class="form-group">
+        <label for="MaLoaiPhong">Mã loại phòng</label>
+        <input type="text" class="form-control" id="MaLoaiPhong" name="MaLoaiPhong" value="@Model.MaLoaiPhong" required />
+    </div>
+    <div class="form-group">
+        <label class="form-label">Tình trạng</label>
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="TinhTrang" id="SanSang" value="SanSang" @(Model.TinhTrang == "SanSang" ? "checked" : "")>
+            <label class="form-check-label" for="SanSang">Sẵn sàng</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="TinhTrang" id="DangSua" value="DangSua" @(Model.TinhTrang == "DangSua" ? "checked" : "")>
+            <label class="form-check-label" for="DangSua">Đang sửa</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="TinhTrang" id="DaDat" value="DaDat" @(Model.TinhTrang == "DaDat" ? "checked" : "")>
+            <label class="form-check-label" for="DaDat">Đã đặt</label>
+        </div>
+        @if (Model.TinhTrang != "SanSang" && Model.TinhTrang != "DangSua" && Model.TinhTrang != "DaDat")
+        {
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="TinhTrang" id="Other" value="@Model.TinhTrang" checked>
+                <label class="form-check-label" for="Other">@Model.TinhTrang</label>
+            </div>
+        }
+    </div>
+    <button type="submit" class="btn btn-warning">Cập nhật phòng</button>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</form>

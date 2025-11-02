@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Quản_lý_khách_sạn_mvc
+build_property.RootNamespace = Quản_lý_khách_sạn_mvc
+build_property.ProjectDir = C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản lý khách sạn mvc\Quản lý khách sạn mvc\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản lý khách sạn mvc\Quản lý khách sạn mvc
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/DatPhong/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0UGhvbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/DichVu/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGljaFZ1XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Gia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Gia/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Gia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Gia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Gia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/HoaDon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/LoaiPhong/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haVBob25nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Phong/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmdcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Phong/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmdcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Phong/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmdcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Phong/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmdcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Phong/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/minhh/source/repos/quản lý khách sạn 123456/Quản lý khách sạn mvc/Quản lý khách sạn mvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1pqtu52qfz

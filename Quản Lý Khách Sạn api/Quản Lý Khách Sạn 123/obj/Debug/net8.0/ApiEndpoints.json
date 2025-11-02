@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "Qu\u1EA3n_L\u00FD_Kh\u00E1ch_S\u1EA1n_123.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Qu\u1EA3n_L\u00FD_Kh\u00E1ch_S\u1EA1n_123.WeatherForecast, Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n 123, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

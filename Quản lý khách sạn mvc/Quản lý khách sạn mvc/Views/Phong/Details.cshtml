@@ -1,0 +1,9 @@
+@model Quản_lý_khách_sạn_mvc.Models.PhongViewModel
+<h2>Chi tiết phòng</h2>
+<table class="table">
+    <tr><th>Mã phòng</th><td>@Model.MaPhong</td></tr>
+    <tr><th>Số phòng</th><td>@Model.SoPhong</td></tr>
+    <tr><th>Mã loại phòng</th><td>@Model.MaLoaiPhong</td></tr>
+    <tr><th>Tình trạng</th><td>@Model.TinhTrang</td></tr>
+</table>
+<a asp-action="Index" class="btn btn-secondary">Quay lại</a>
