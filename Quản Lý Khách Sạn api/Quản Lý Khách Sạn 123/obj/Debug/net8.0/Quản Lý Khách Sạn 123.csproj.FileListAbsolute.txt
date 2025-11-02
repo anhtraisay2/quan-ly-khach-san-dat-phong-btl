@@ -1,0 +1,73 @@
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.csproj.AssemblyReference.cache
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.AssemblyInfoInputs.cache
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.AssemblyInfo.cs
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.csproj.CoreCompileInputs.cache
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\bin\Debug\net8.0\appsettings.json
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Quản Lý Khách Sạn 123.staticwebassets.endpoints.json
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Quản Lý Khách Sạn 123.exe
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Quản Lý Khách Sạn 123.deps.json
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Quản Lý Khách Sạn 123.runtimeconfig.json
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Quản Lý Khách Sạn 123.dll
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Quản Lý Khách Sạn 123.pdb
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\scopedcss\bundle\Quản Lý Khách Sạn 123.styles.css
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets\msbuild.Quản Lý Khách Sạn 123.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets\msbuild.Quản Lý Khách Sạn 123.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets\msbuild.build.Quản Lý Khách Sạn 123.props
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Quản Lý Khách Sạn 123.props
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Quản Lý Khách Sạn 123.props
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Qu_n L_ .AD98C871.Up2Date
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.dll
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\refint\Quản Lý Khách Sạn 123.dll
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.pdb
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.genruntimeconfig.cache
+C:\Users\minhh\source\repos\Quản Lý Khách Sạn 123\Quản Lý Khách Sạn 123\obj\Debug\net8.0\ref\Quản Lý Khách Sạn 123.dll
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\bin\Debug\net8.0\appsettings.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Quản Lý Khách Sạn 123.staticwebassets.endpoints.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Quản Lý Khách Sạn 123.exe
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Quản Lý Khách Sạn 123.deps.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Quản Lý Khách Sạn 123.runtimeconfig.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Quản Lý Khách Sạn 123.dll
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Quản Lý Khách Sạn 123.pdb
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.csproj.AssemblyReference.cache
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.AssemblyInfoInputs.cache
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.AssemblyInfo.cs
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.csproj.CoreCompileInputs.cache
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.sourcelink.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\scopedcss\bundle\Quản Lý Khách Sạn 123.styles.css
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets\msbuild.Quản Lý Khách Sạn 123.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets\msbuild.Quản Lý Khách Sạn 123.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets\msbuild.build.Quản Lý Khách Sạn 123.props
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Quản Lý Khách Sạn 123.props
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Quản Lý Khách Sạn 123.props
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Qu_n L_ .AD98C871.Up2Date
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.dll
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\refint\Quản Lý Khách Sạn 123.dll
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.pdb
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\Quản Lý Khách Sạn 123.genruntimeconfig.cache
+C:\Users\minhh\source\repos\quản lý khách sạn 123456\Quản Lý Khách Sạn api\Quản Lý Khách Sạn 123\obj\Debug\net8.0\ref\Quản Lý Khách Sạn 123.dll

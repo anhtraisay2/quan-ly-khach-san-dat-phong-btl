@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Quản Lý Khách Sạn 123.props" />
+</Project>

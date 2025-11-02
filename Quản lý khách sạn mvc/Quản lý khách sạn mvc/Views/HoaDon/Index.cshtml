@@ -1,0 +1,21 @@
+@model IEnumerable<Quản_lý_khách_sạn_mvc.Models.HoaDonViewModel>
+<h2>Danh sách hóa đơn</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã hóa đơn</th>
+            <th>Ngày lập</th>
+            <th>Tổng tiền</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MaHoaDon</td>
+                    <td>@item.NgayHoaDon</td>
+                    <td>@item.SoTien</td>
+            </tr>
+        }
+    </tbody>
+</table>

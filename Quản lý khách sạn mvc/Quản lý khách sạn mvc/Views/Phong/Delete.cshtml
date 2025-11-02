@@ -1,0 +1,8 @@
+@model Quản_lý_khách_sạn_mvc.Models.PhongViewModel
+<h2>Xóa phòng</h2>
+<form asp-action="Delete" method="post">
+    <input type="hidden" name="MaPhong" value="@Model.MaPhong" />
+    <p>Bạn có chắc chắn muốn xóa phòng <strong>@Model.SoPhong</strong> không?</p>
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</form>

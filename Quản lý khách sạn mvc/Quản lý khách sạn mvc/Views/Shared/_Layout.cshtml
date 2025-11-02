@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Quản_lý_khách_sạn_mvc</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Quản_lý_khách_sạn_mvc.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Quản_lý_khách_sạn_mvc</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        @{
+                            var role = Context.Session.GetString("VaiTro")?.ToLower();
+                            if (role == "letan") role = "letan";
+                            else if (role == "ketoan") role = "ketoan";
+                            else if (role == "khach") role = "khach";
+                        }
+                        @if (role == "admin")
+                        {
+                            <li class="nav-item"><a class="nav-link text-dark" asp-area="" asp-controller="Phong" asp-action="Index">Phòng</a></li>
+                            <li class="nav-item"><a class="nav-link text-dark" asp-area="" asp-controller="DatPhong" asp-action="Index">Đặt phòng</a></li>
+                            <li class="nav-item"><a class="nav-link text-dark" asp-area="" asp-controller="LoaiPhong" asp-action="Index">Loại phòng</a></li>
+                            <li class="nav-item"><a class="nav-link text-dark" asp-area="" asp-controller="DichVu" asp-action="Index">Dịch vụ</a></li>
+                            <li class="nav-item"><a class="nav-link text-dark" asp-area="" asp-controller="HoaDon" asp-action="Index">Hóa đơn</a></li>
+                            <li class="nav-item"><a class="nav-link text-dark" asp-area="" asp-controller="Gia" asp-action="Index">Giá</a></li>
+                        }
+                        else if (role == "letan")
+                        {
+                            <li class="nav-item"><a class="nav-link text-dark" asp-area="" asp-controller="Phong" asp-action="Index">Phòng</a></li>
+                            <li class="nav-item"><a class="nav-link text-dark" asp-area="" asp-controller="DatPhong" asp-action="Index">Đặt phòng</a></li>
+                            <li class="nav-item"><a class="nav-link text-dark" asp-area="" asp-controller="HoaDon" asp-action="Index">Hóa đơn</a></li>
+                            <li class="nav-item"><a class="nav-link text-dark" asp-area="" asp-controller="Khach" asp-action="Index">Khách hàng</a></li>
+                        }
+                        else if (role == "ketoan")
+                        {
+                            <li class="nav-item"><a class="nav-link text-dark" asp-area="" asp-controller="HoaDon" asp-action="Index">Hóa đơn</a></li>
+                            <li class="nav-item"><a class="nav-link text-dark" asp-area="" asp-controller="Gia" asp-action="Index">Giá</a></li>
+                        }
+                        else if (role == "khach")
+                        {
+                            <li class="nav-item"><a class="nav-link text-dark" asp-area="" asp-controller="DatPhong" asp-action="Index">Đặt phòng</a></li>
+                            <li class="nav-item"><a class="nav-link text-dark" asp-area="" asp-controller="Khach" asp-action="Index">Thông tin cá nhân</a></li>
+                        }
+                    </ul>
+                    <ul class="navbar-nav ms-auto">
+                        @if (Context.Session.GetString("VaiTro") == null)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login"><i class="bi bi-box-arrow-in-right"></i> Đăng nhập</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <span class="nav-link"><i class="bi bi-person-circle"></i> @Context.Session.GetString("TenDangNhap") (@Context.Session.GetString("VaiTro"))</span>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout"><i class="bi bi-box-arrow-right"></i> Đăng xuất</a>
+                            </li>
+                        }
+                    </ul>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - Quản_lý_khách_sạn_mvc - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

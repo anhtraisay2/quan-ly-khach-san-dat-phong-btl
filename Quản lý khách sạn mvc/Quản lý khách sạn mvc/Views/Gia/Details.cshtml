@@ -1,0 +1,30 @@
+@model Quản_lý_khách_sạn_mvc.Models.GiaViewModel
+
+@{
+    ViewData["Title"] = "Chi tiết giá phòng";
+}
+
+<h2>Chi tiết giá phòng</h2>
+<div class="card">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Mã giá</dt>
+            <dd class="col-sm-9">@Model.MaGia</dd>
+            <dt class="col-sm-3">Loại phòng</dt>
+            <dd class="col-sm-9">@Model.MaLoaiPhong</dd>
+            <dt class="col-sm-3">Từ ngày</dt>
+            <dd class="col-sm-9">@Model.TuNgay.ToString("dd/MM/yyyy")</dd>
+            <dt class="col-sm-3">Đến ngày</dt>
+            <dd class="col-sm-9">@Model.DenNgay.ToString("dd/MM/yyyy")</dd>
+            <dt class="col-sm-3">Giá mỗi đêm</dt>
+            <dd class="col-sm-9">@Model.GiaMoiDem.ToString("N0")</dd>
+            <dt class="col-sm-3">Giá mỗi giờ</dt>
+            <dd class="col-sm-9">@(Model.GiaMoiGio.HasValue ? Model.GiaMoiGio.Value.ToString("N0") : "-")</dd>
+            <dt class="col-sm-3">Ghi chú</dt>
+            <dd class="col-sm-9">@Model.GhiChu</dd>
+        </dl>
+        <a asp-action="Edit" asp-route-id="@Model.MaGia" class="btn btn-warning">Sửa</a>
+        <a asp-action="Delete" asp-route-id="@Model.MaGia" class="btn btn-danger">Xóa</a>
+        <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+    </div>
+</div>

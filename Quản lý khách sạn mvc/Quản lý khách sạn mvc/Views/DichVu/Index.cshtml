@@ -1,0 +1,21 @@
+@model IEnumerable<Quản_lý_khách_sạn_mvc.Models.DichVuViewModel>
+<h2>Danh sách dịch vụ</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tên dịch vụ</th>
+            <th>Giá</th>
+            <th>Thuế</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Ten</td>
+                <td>@item.DonGia</td>
+                <td>@item.Thue</td>
+            </tr>
+        }
+    </tbody>
+</table>

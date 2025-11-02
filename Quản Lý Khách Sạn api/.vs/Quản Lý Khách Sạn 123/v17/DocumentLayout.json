@@ -1,0 +1,1218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\coreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\loaiphongbll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\loaiphongbll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\models\\giaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\controllers\\giacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\models\\gia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|solutionrelative:models\\gia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\models\\giadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|solutionrelative:models\\giadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|solutionrelative:models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\coreapi\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\coreapi\\controllers\\loaiphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\controllers\\loaiphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\coreapi\\controllers\\phongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\controllers\\phongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\models\\forgotpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\models\\phongviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\views\\phong\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\views\\phong\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\controllers\\dichvucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\models\\dichvuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\models\\loaiphongviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\views\\loaiphong\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\views\\hoadon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\controllers\\loaiphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\models\\thanhtoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\views\\datphong\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\controllers\\phongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\models\\phieuthuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\models\\datphongviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\controllers\\datphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\coreapi\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\hoadonbll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\hoadonbll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\coreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\coreapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\dichvubll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\dichvubll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\datphongbll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\datphongbll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\hoadonchitietbll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\hoadonchitietbll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\khachbll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\khachbll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\coreapi\\controllers\\datphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\controllers\\datphongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\phongbll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\phongbll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\nguoidungbll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\nguoidungbll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\giabll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\giabll_ado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E2409E-BFB5-4582-A1C5-DA4B022B8899}|DAL\\DAL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\dal\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E2409E-BFB5-4582-A1C5-DA4B022B8899}|DAL\\DAL.csproj|solutionrelative:dal\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\coreapi\\controllers\\khachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\controllers\\khachcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\coreapi\\controllers\\hoadonchitietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\controllers\\hoadonchitietcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\hoadonchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\hoadonchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\phongbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\phongbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\nguoidungbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\nguoidungbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\loaiphongbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\loaiphongbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\khachbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\khachbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\gia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\gia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\bll\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D111D9F-1C53-4952-9456-71E1F772DC06}|BLL\\BLL.csproj|solutionrelative:bll\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0434CFBF-4EFC-8AE8-D14C-4C01E2D56557}|..\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n MVC\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|solutionrelative:models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\coreapi\\coreapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\coreapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\coreapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\models\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|solutionrelative:models\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\models\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|solutionrelative:models\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\coreapi\\controllers\\dichvucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018894BE-E891-4520-ACBC-4D2ADED2B13C}|CoreApi\\CoreApi.csproj|solutionrelative:coreapi\\controllers\\dichvucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|solutionrelative:models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\models\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|solutionrelative:models\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\models\\khach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|solutionrelative:models\\khach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|c:\\users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n api\\models\\hoadonchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AAD11E-A7B3-4D70-9DB4-17F006387181}|Models\\Models.csproj|solutionrelative:models\\hoadonchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Models\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\HoaDon.cs",
+              "RelativeToolTip": "Models\\HoaDon.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA+wBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:56:22.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GiaController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\GiaController.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\GiaController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\GiaController.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\GiaController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:30:21.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiaViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\GiaViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\GiaViewModel.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\GiaViewModel.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\GiaViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:20:08.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoaiPhongBLL_Ado.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\LoaiPhongBLL_Ado.cs",
+              "RelativeDocumentMoniker": "BLL\\LoaiPhongBLL_Ado.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\LoaiPhongBLL_Ado.cs",
+              "RelativeToolTip": "BLL\\LoaiPhongBLL_Ado.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:30:06.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CoreApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\appsettings.json",
+              "RelativeToolTip": "CoreApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T05:06:22.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gia.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\Gia.cs",
+              "RelativeDocumentMoniker": "Models\\Gia.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\Gia.cs",
+              "RelativeToolTip": "Models\\Gia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:55:54.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GiaDto.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\GiaDto.cs",
+              "RelativeDocumentMoniker": "Models\\GiaDto.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\GiaDto.cs",
+              "RelativeToolTip": "Models\\GiaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:59:37.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAswHwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T16:41:34.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T08:33:41.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoaiPhongController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\LoaiPhongController.cs",
+              "RelativeDocumentMoniker": "CoreApi\\Controllers\\LoaiPhongController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\LoaiPhongController.cs",
+              "RelativeToolTip": "CoreApi\\Controllers\\LoaiPhongController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T04:20:48.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NguoiDungController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\NguoiDungController.cs",
+              "RelativeDocumentMoniker": "CoreApi\\Controllers\\NguoiDungController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\NguoiDungController.cs",
+              "RelativeToolTip": "CoreApi\\Controllers\\NguoiDungController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:53:24.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T16:42:47.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhongController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\PhongController.cs",
+              "RelativeDocumentMoniker": "CoreApi\\Controllers\\PhongController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\PhongController.cs",
+              "RelativeToolTip": "CoreApi\\Controllers\\PhongController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:53:45.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:20:04.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ForgotPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\ForgotPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\ForgotPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\ForgotPasswordViewModel.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\ForgotPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:31:08.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T04:20:25.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T04:33:12.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Phong\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Phong\\Index.cshtml",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Phong\\Index.cshtml",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Phong\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T11:40:01.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Phong\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Phong\\Create.cshtml",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Phong\\Create.cshtml",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Phong\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T03:27:50.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\HoaDonController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\HoaDonController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:12:52.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\HoaDon\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\HoaDon\\Index.cshtml",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\HoaDon\\Index.cshtml",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\HoaDon\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T09:52:29.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PhongViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\PhongViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\PhongViewModel.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\PhongViewModel.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\PhongViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:36:58.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DichVuViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\DichVuViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\DichVuViewModel.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\DichVuViewModel.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\DichVuViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:02:33.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DichVuController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\DichVuController.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\DichVuController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\DichVuController.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\DichVuController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:02:36.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\LoaiPhong\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\LoaiPhong\\Index.cshtml",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\LoaiPhong\\Index.cshtml",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\LoaiPhong\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-29T09:22:59.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoaiPhongViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\LoaiPhongViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\LoaiPhongViewModel.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\LoaiPhongViewModel.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\LoaiPhongViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T08:57:29.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HoaDonBLL.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\HoaDonBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\HoaDonBLL.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\HoaDonBLL.cs",
+              "RelativeToolTip": "BLL\\HoaDonBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:48:43.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:20:44.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoaiPhongController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\LoaiPhongController.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\LoaiPhongController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\LoaiPhongController.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\LoaiPhongController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:26:01.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ThanhToanViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\ThanhToanViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\ThanhToanViewModel.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\ThanhToanViewModel.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\ThanhToanViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:27:02.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T08:26:50.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwDAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T04:42:18.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Program.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:40:18.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\appsettings.json",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-26T12:00:44.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\DatPhong\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\DatPhong\\Index.cshtml",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\DatPhong\\Index.cshtml",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\DatPhong\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T16:05:41.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PhongController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\PhongController.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\PhongController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\PhongController.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\PhongController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:33:58.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PhieuThuViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\PhieuThuViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\PhieuThuViewModel.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\PhieuThuViewModel.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\PhieuThuViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:23:51.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DatPhongViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\DatPhongViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\DatPhongViewModel.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\DatPhongViewModel.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Models\\DatPhongViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T15:16:05.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DatPhongController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\DatPhongController.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\DatPhongController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\DatPhongController.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\DatPhongController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T16:04:00.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HoaDonBLL_Ado.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\HoaDonBLL_Ado.cs",
+              "RelativeDocumentMoniker": "BLL\\HoaDonBLL_Ado.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\HoaDonBLL_Ado.cs",
+              "RelativeToolTip": "BLL\\HoaDonBLL_Ado.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:51:46.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "CoreApi\\Controllers\\HoaDonController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "CoreApi\\Controllers\\HoaDonController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:52:58.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CoreApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CoreApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T05:11:39.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Program.cs",
+              "RelativeDocumentMoniker": "CoreApi\\Program.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Program.cs",
+              "RelativeToolTip": "CoreApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T05:06:42.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DichVuBLL_Ado.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\DichVuBLL_Ado.cs",
+              "RelativeDocumentMoniker": "BLL\\DichVuBLL_Ado.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\DichVuBLL_Ado.cs",
+              "RelativeToolTip": "BLL\\DichVuBLL_Ado.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:45:58.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DatPhongBLL_Ado.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\DatPhongBLL_Ado.cs",
+              "RelativeDocumentMoniker": "BLL\\DatPhongBLL_Ado.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\DatPhongBLL_Ado.cs",
+              "RelativeToolTip": "BLL\\DatPhongBLL_Ado.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:08:23.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "HoaDonChiTietBLL_Ado.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\HoaDonChiTietBLL_Ado.cs",
+              "RelativeDocumentMoniker": "BLL\\HoaDonChiTietBLL_Ado.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\HoaDonChiTietBLL_Ado.cs",
+              "RelativeToolTip": "BLL\\HoaDonChiTietBLL_Ado.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:29:08.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "KhachBLL_Ado.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\KhachBLL_Ado.cs",
+              "RelativeDocumentMoniker": "BLL\\KhachBLL_Ado.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\KhachBLL_Ado.cs",
+              "RelativeToolTip": "BLL\\KhachBLL_Ado.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:55:44.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DatPhongController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\DatPhongController.cs",
+              "RelativeDocumentMoniker": "CoreApi\\Controllers\\DatPhongController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\DatPhongController.cs",
+              "RelativeToolTip": "CoreApi\\Controllers\\DatPhongController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:51:33.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PhongBLL_Ado.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\PhongBLL_Ado.cs",
+              "RelativeDocumentMoniker": "BLL\\PhongBLL_Ado.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\PhongBLL_Ado.cs",
+              "RelativeToolTip": "BLL\\PhongBLL_Ado.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:08:13.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "NguoiDungBLL_Ado.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\NguoiDungBLL_Ado.cs",
+              "RelativeDocumentMoniker": "BLL\\NguoiDungBLL_Ado.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\NguoiDungBLL_Ado.cs",
+              "RelativeToolTip": "BLL\\NguoiDungBLL_Ado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:27:57.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GiaBLL_Ado.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\GiaBLL_Ado.cs",
+              "RelativeDocumentMoniker": "BLL\\GiaBLL_Ado.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\GiaBLL_Ado.cs",
+              "RelativeToolTip": "BLL\\GiaBLL_Ado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:46:04.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\DAL\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\HotelDbContext.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\DAL\\HotelDbContext.cs",
+              "RelativeToolTip": "DAL\\HotelDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:54:08.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "KhachController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\KhachController.cs",
+              "RelativeDocumentMoniker": "CoreApi\\Controllers\\KhachController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\KhachController.cs",
+              "RelativeToolTip": "CoreApi\\Controllers\\KhachController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:32:03.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "HoaDonChiTietController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\HoaDonChiTietController.cs",
+              "RelativeDocumentMoniker": "CoreApi\\Controllers\\HoaDonChiTietController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\HoaDonChiTietController.cs",
+              "RelativeToolTip": "CoreApi\\Controllers\\HoaDonChiTietController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:52:35.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "HoaDonChiTiet.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\HoaDonChiTiet.cs",
+              "RelativeDocumentMoniker": "BLL\\HoaDonChiTiet.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\HoaDonChiTiet.cs",
+              "RelativeToolTip": "BLL\\HoaDonChiTiet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:49:00.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DatPhong.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\DatPhong.cs",
+              "RelativeDocumentMoniker": "BLL\\DatPhong.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\DatPhong.cs",
+              "RelativeToolTip": "BLL\\DatPhong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:47:05.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PhongBLL.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\PhongBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\PhongBLL.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\PhongBLL.cs",
+              "RelativeToolTip": "BLL\\PhongBLL.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:50:13.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "NguoiDungBLL.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\NguoiDungBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\NguoiDungBLL.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\NguoiDungBLL.cs",
+              "RelativeToolTip": "BLL\\NguoiDungBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:49:58.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LoaiPhongBLL.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\LoaiPhongBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\LoaiPhongBLL.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\LoaiPhongBLL.cs",
+              "RelativeToolTip": "BLL\\LoaiPhongBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:49:40.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Gia.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\Gia.cs",
+              "RelativeDocumentMoniker": "BLL\\Gia.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\Gia.cs",
+              "RelativeToolTip": "BLL\\Gia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:47:56.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DichVu.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\DichVu.cs",
+              "RelativeDocumentMoniker": "BLL\\DichVu.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\DichVu.cs",
+              "RelativeToolTip": "BLL\\DichVu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:47:41.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "KhachBLL.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\KhachBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\KhachBLL.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\BLL\\KhachBLL.cs",
+              "RelativeToolTip": "BLL\\KhachBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:49:17.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T04:28:46.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T04:20:18.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T04:20:15.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T15:14:33.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:24:45.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Phong.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\Phong.cs",
+              "RelativeDocumentMoniker": "Models\\Phong.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\Phong.cs",
+              "RelativeToolTip": "Models\\Phong.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:57:46.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CoreApi.http",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\CoreApi.http",
+              "RelativeDocumentMoniker": "CoreApi\\CoreApi.http",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\CoreApi.http",
+              "RelativeToolTip": "CoreApi\\CoreApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-14T05:18:52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CoreApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\WeatherForecast.cs",
+              "RelativeToolTip": "CoreApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T05:19:09.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DichVu.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\DichVu.cs",
+              "RelativeDocumentMoniker": "Models\\DichVu.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\DichVu.cs",
+              "RelativeToolTip": "Models\\DichVu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:55:40.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "DichVuController.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\DichVuController.cs",
+              "RelativeDocumentMoniker": "CoreApi\\Controllers\\DichVuController.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\CoreApi\\Controllers\\DichVuController.cs",
+              "RelativeToolTip": "CoreApi\\Controllers\\DichVuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:52:03.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DatPhong.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\DatPhong.cs",
+              "RelativeDocumentMoniker": "Models\\DatPhong.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\DatPhong.cs",
+              "RelativeToolTip": "Models\\DatPhong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:55:13.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "NguoiDung.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\NguoiDung.cs",
+              "RelativeDocumentMoniker": "Models\\NguoiDung.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\NguoiDung.cs",
+              "RelativeToolTip": "Models\\NguoiDung.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:57:32.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "LoaiPhong.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\LoaiPhong.cs",
+              "RelativeDocumentMoniker": "Models\\LoaiPhong.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\LoaiPhong.cs",
+              "RelativeToolTip": "Models\\LoaiPhong.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:57:19.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Khach.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\Khach.cs",
+              "RelativeDocumentMoniker": "Models\\Khach.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\Khach.cs",
+              "RelativeToolTip": "Models\\Khach.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:57:04.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "HoaDonChiTiet.cs",
+              "DocumentMoniker": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\HoaDonChiTiet.cs",
+              "RelativeDocumentMoniker": "Models\\HoaDonChiTiet.cs",
+              "ToolTip": "C:\\Users\\minhh\\source\\repos\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n 123456\\Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n api\\Models\\HoaDonChiTiet.cs",
+              "RelativeToolTip": "Models\\HoaDonChiTiet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:56:49.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

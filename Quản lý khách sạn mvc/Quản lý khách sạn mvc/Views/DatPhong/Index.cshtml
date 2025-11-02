@@ -1,0 +1,31 @@
+@model List<Quản_lý_khách_sạn_mvc.Models.DatPhongViewModel>
+<h2>Danh sách đặt phòng</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Mã đặt</th>
+            <th>Mã khách</th>
+            <th>Mã phòng</th>
+            <th>Mã loại phòng</th>
+            <th>Ngày nhận</th>
+            <th>Ngày trả</th>
+            <th>Số khách</th>
+            <th>Trạng thái</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dp in Model)
+        {
+            <tr>
+                <td>@dp.MaDat</td>
+                <td>@dp.MaKhach</td>
+                <td>@dp.MaPhong</td>
+                <td>@dp.MaLoaiPhong</td>
+                <td>@dp.NgayNhan.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@dp.NgayTra.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@dp.SoKhach</td>
+                <td>@dp.TrangThai</td>
+            </tr>
+        }
+    </tbody>
+</table>
